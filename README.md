@@ -1,6 +1,6 @@
 # 🎅 Santa PCB – 2024 Edition
 
-![Santa PCB](https://github.com/EnginSUNAL/ChristmasPCB-2024/blob/7627d50f4f276fb5e2f8b65e4a08f6189c02c70c/Images/Final%20Product.jpg)
+![Santa PCB]([https://github.com/EnginSUNAL/ChristmasPCB-2024/blob/7627d50f4f276fb5e2f8b65e4a08f6189c02c70c/Images/Final%20Product.jpg](https://github.com/EnginSUNAL/ChristmasPCB-2024/blob/99ea5394959683bfef744c869a4d27ec87f8ff7c/Images/Final_Product.jpg))
 
 ## 🎁 Project Overview
 
