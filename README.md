@@ -51,7 +51,7 @@ I missed this small detail — flipping it makes battery insertion easier after 
 ## 📌 References and More Details
 
 - 🔗 [STM32 PCB Design Repo](https://github.com/EnginSUNAL/ChristmasPCB-2024)
-- 📷 [Original LinkedIn Post]([https://www.linkedin.com/posts/enginsunal_i-designed-this-pcb-as-a-new-years-gift-activity-7146878622228811777-rMWC](https://www.linkedin.com/posts/enginsunal_i-designed-this-pcb-as-a-new-years-gift-activity-7146878622228811777-rMWC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0byoUBUujyr4Dp2W2GKCXBszzhNvqKYcM))
+- 📷 [Original LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7146878622228811777/)
 
 ---
 
